@@ -42,5 +42,5 @@ def search_insert(nums, target):
 
 
 l = [1, 3, 5, 6]
-target = 2
+target = 7
 print(search_insert(l, target))
