@@ -29,6 +29,3 @@ def plus_one(digits):
 
 l = [9]
 print(plus_one(l))
-
-
-
